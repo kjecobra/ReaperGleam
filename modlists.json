@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ReaperGleam",
+    "description": "A complete visual makeover of Skyrim based on Eldergleam, and Community Shaders.",
+    "author": "Reaper",
+    "maintainers": [
+      "github/kjecobra"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/title-1.png",
+      "readme": "https://github.com/kjecobra/ReaperGleam/",
+      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_f8e58a3a-17e4-403a-8959-e4e9b4a686c7",
+      "machineURL": "ReaperGleam",
+      "discordURL": "https://discord.gg/HeuDEjg4"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 1301444306,
+      "NumberOfArchives": 1974,
+      "SizeOfArchives": 247697663863,
+      "NumberOfInstalledFiles": 375663,
+      "SizeOfInstalledFiles": 336234661651
+    },
+    "version": "1.0.1"
+  }
+]
+
