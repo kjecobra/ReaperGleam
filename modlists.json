@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/title-1.webp",
+      "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/Images/title1.webp",
       "readme": "https://github.com/kjecobra/ReaperGleam/",
       "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_f8e58a3a-17e4-403a-8959-e4e9b4a686c7",
       "machineURL": "ReaperGleam",
