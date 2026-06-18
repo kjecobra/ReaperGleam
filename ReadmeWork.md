@@ -127,6 +127,6 @@ At this point everything should be ready to play.
 
 
 ![Mod Highlights banner](Images/Mod%20Highlights.png)
-[Complete ModList](Docs/modlist.pdf)
+<div align="center">[Complete ModList](Docs/modlist.pdf)</div>
 
 ![Keyboard banner](Images/Keyboard.png)
