@@ -1,7 +1,8 @@
 ![Overview banner](Images/overview.png)
-    ReaperGleam is a modernization of ElderGleam 4.0.2 rebuilt for the Skyrim Anniversary Edition (1.6.1170). The list replaces ENB‑era lighting assumptions with a Community Shader–driven PBR w[...]
 
-    Built on engine fixes and modern SKSE-based systems, the modlist emphasizes updated animation behavior, reliable LOD generation, and runtime stability improvements. Expect improved materials an[...]
+ReaperGleam is a modernization of ElderGleam 4.0.2 rebuilt for the Skyrim Anniversary Edition (1.6.1170). The list replaces ENB‑era lighting assumptions with a Community Shader–driven PBR w[..]
+
+Built on engine fixes and modern SKSE-based systems, the modlist emphasizes updated animation behavior, reliable LOD generation, and runtime stability improvements. Expect improved materials an[..]
 
 ![System requirements banner](Images/system%20requirements.png)
 
