@@ -31,9 +31,6 @@ Built on engine fixes and modern SKSE-based systems, the modlist emphasizes upda
 
 ![Installation Guide banner](Images/Installation%20Guide.png)
 
-Installation Folder - 312 GB (335,661,735,936 bytes)
-Download Folder - 210 GB (225,996,947,456 bytes)
-Total Installation Size - 523 GB (561,658,683,392 bytes)
 
 
 ![Mod Highlights banner](Images/Mod%20Highlights.png)
