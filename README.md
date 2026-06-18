@@ -78,7 +78,7 @@ Create these folders (example: on C:):
 - `C:\wabbajack` — where Wabbajack will be installed
 - `C:\ReaperGleam_Downloads` — where Wabbajack places downloaded mod files
 -    Or
-- 'C:\ReaperGleam\Downloads'
+- `C:\ReaperGleam\Downloads`
 - `C:\SkyrimGAME` — a clean Steam library folder for Skyrim
 
 Make sure your antivirus and backup software ignore these folders. If they don't, they may delete or quarantine files Wabbajack needs. If you only have one drive, avoid placing these folders inside `Program Files`.
