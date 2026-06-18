@@ -4,6 +4,24 @@
     Built on engine fixes and modern SKSE-based systems, the modlist emphasizes updated animation behavior, reliable LOD generation, and runtime stability improvements. Expect improved materials and lighting, richer ambient audio, smoother animations, and a modernized UI.
 
 ![System requirements banner](Images/system%20requirements.png)
+Minimum Specs
+Processor: i5 9th Gen or equivalent
+
+RAM: 16 GB RAM DDR4 + 40 GB Pagefile
+
+GPU: RTX 3060 Ti or equivalent
+
+Storage: SSD
+
+Resolution: 1920 × 1080
+
+Recommended Specs
+
+Processor: i7 9th Gen or higher
+
+RAM: 16 GB RAM DDR5 + 40 GB Pagefile
+
+GPU: RTX 4070 Ti or equivalent
 
 Installation Folder: 333 GB
 
