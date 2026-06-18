@@ -34,8 +34,6 @@ Built on engine fixes and modern SKSE-based systems, the modlist emphasizes upda
 
 ## Installation Guide (Step-by-step)
 
-> Important: ReaperGleam is a very large modlist — the full install requires roughly 523 GB. Make sure your system meets the recommended specs and you have sufficient free space before continuing.
-
 ### Before you start
 
 - ReaperGleam is a huge modlist. Your PC needs to be ready. Confirm you meet the recommended system requirements and have enough storage space.
@@ -77,7 +75,9 @@ Create these folders (example: on C:):
 
 - `C:\ReaperGleam` — installation location for the modlist
 - `C:\wabbajack` — where Wabbajack will be installed
-- `C:\ResourceDownloads` — where Wabbajack places downloaded mod files
+- `C:\ReaperGleam_Downloads` — where Wabbajack places downloaded mod files
+-    Or
+- 'C:\ReaperGleam\Downloads'
 - `C:\SkyrimGAME` — a clean Steam library folder for Skyrim
 
 Make sure your antivirus and backup software ignore these folders. If they don't, they may delete or quarantine files Wabbajack needs. If you only have one drive, avoid placing these folders inside `Program Files`.
