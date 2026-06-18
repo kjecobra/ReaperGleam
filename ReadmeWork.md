@@ -6,8 +6,11 @@
 ![System requirements banner](Images/system%20requirements.png)
 
 Installation Folder: 333 GB
+
    Downloads Folder: 216 GB
+   
  Total Installation: 550 GB
+ 
  
 ![Installation Guide banner](Images/Installation%20Guide.png)
 
