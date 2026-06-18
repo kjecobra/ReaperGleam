@@ -5,6 +5,8 @@
 
 ![System requirements banner](Images/system%20requirements.png)
 
+<div align="center">
+
 ## System requirements
 
 | Requirement  | Minimum | Recommended |
@@ -21,6 +23,8 @@
 | Installation folder | 333 GB |
 | Downloads folder    | 216 GB |
 | Total installation  | 550 GB |
+
+</div>
 
 
 ![Installation Guide banner](Images/Installation%20Guide.png)
