@@ -144,3 +144,5 @@ While in card press hotkey (default: 7) to Flip card for “extra info”
 To open the new Bestiary menu, press K by default. The hotkey can be changed in the mod's INI file.
 ### Character Menu SE
 To open the Character Menu, press N by default. This key can be changed in the INI file.
+
+![Gamepad](Images/Gamepad.webp)
