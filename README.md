@@ -112,7 +112,7 @@ If Steam refuses to create another library on the same drive, follow the workaro
 3. Select the ReaperGleam modlist
 4. Set the following locations in Wabbajack:
    - Installation Location: `C:\ReaperGleam`
-   - Download Location: `C:\ResourceDownloads`
+   - Download Location: `C:\ReaperGleam_Downloads` or `C:\Reapergleam\Downloads`
 5. Start the installation
 6. If prompted with “Overwrite”, check it and continue
 
