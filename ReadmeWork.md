@@ -134,3 +134,14 @@ At this point everything should be ready to play.
 </div>
 
 ![Keyboard banner](Images/Keyboard.png)
+Skyrim NPC Stats Card
+Press your hotkey (default: Y) near an NPC
+
+While in card press hotkey (default: 7) to Flip card for “extra info”
+
+The Dragonborn's Bestiary
+To open the new Bestiary menu, press K by default. The hotkey can be changed in the mod's INI file.
+
+Character Menu SE
+To open the Character Menu, press N by default. This key can be changed in the INI file.
+
