@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "ReaperGleam",
-    "description": "A complete visual makeover of Skyrim based on Eldergleam, and Community Shaders.",
+    "description": "ReaperGleam is a modern overhaul built on ElderGleam 4.0.2, updated for Skyrim 1.6.1170 and fully re‑engineered for Community Shaders. It delivers a stable, visually advanced, PBR‑driven experience with updated lighting, materials, audio, and world enhancements",
     "author": "Reaper",
     "maintainers": [
       "github/kjecobra"
