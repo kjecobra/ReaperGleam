@@ -15,12 +15,12 @@
     ],
     "nsfw": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/Images/title-3.webp",
       "readme": "https://github.com/kjecobra/ReaperGleam/",
-      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_b580bbce-d784-4bc8-b8a0-68479e35f5ad",
+      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_f8e58a3a-17e4-403a-8959-e4e9b4a686c7",
       "machineURL": "ReaperGleam",
       "discordURL": "https://discord.gg/HeuDEjg4"
     },
@@ -33,7 +33,7 @@
       "NumberOfInstalledFiles": 388190,
       "SizeOfInstalledFiles": 395299017349
     },
-    "version": "1.3.0"
+    "version": "1.2.0"
   }
 ]
 
