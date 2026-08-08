@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/Images/title-3.webp",
       "readme": "https://github.com/kjecobra/ReaperGleam/",
-      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_c279975a-6137-4dc6-838f-9902dec69dcc",
+      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_6bcb18ca-380c-4104-9846-8a669637abfb",
       "machineURL": "ReaperGleam",
       "discordURL": "https://discord.gg/HeuDEjg4"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "wG0lO1X6HmU=",
-      "Size": 952135941,
-      "NumberOfArchives": 2064,
-      "SizeOfArchives": 237600329723,
-      "NumberOfInstalledFiles": 262464,
-      "SizeOfInstalledFiles": 332420391706
+      "Hash": "N4jMTLghBRs=",
+      "Size": 952101909,
+      "NumberOfArchives": 2065,
+      "SizeOfArchives": 237610368237,
+      "NumberOfInstalledFiles": 262552,
+      "SizeOfInstalledFiles": 332815003867
     },
     "version": "1.3.3"
   }
