@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/Images/title-3.webp",
       "readme": "https://github.com/kjecobra/ReaperGleam/",
-      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_8fa657e2-c9b1-4337-9eb0-c61fa4ab88cc",
+      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_6e0af840-8629-4ee3-8023-3fcbb1f7b534",
       "machineURL": "ReaperGleam",
       "discordURL": "https://discord.gg/HeuDEjg4",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "MPLkoa+LbXc=",
-      "Size": 1471848863,
+      "Hash": "tV4ChijUgqg=",
+      "Size": 1471853087,
       "NumberOfArchives": 2082,
       "SizeOfArchives": 255511308787,
       "NumberOfInstalledFiles": 325676,
-      "SizeOfInstalledFiles": 358131918261,
-      "TotalSize": 613643227048
+      "SizeOfInstalledFiles": 358131928310,
+      "TotalSize": 613643237097
     },
     "version": "1.34",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-03T05:56:09.8724993Z",
+    "dateUpdated": "2026-09-03T12:16:34.3017239Z",
     "repositoryName": ""
   }
 ]
