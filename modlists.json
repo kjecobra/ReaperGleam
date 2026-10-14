@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/kjecobra/ReaperGleam/main/Images/title-3.webp",
       "readme": "https://github.com/kjecobra/ReaperGleam/",
-      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_fd580722-8d37-4e30-83be-ff41b3f679b4",
+      "download": "https://authored-files.wabbajack.org/ReaperGleam - NG.wabbajack_00290713-3213-4bf4-9774-9ab16247bae4",
       "machineURL": "ReaperGleam",
       "discordURL": "https://discord.gg/HeuDEjg4",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "DP3tCkYVYtE=",
-      "Size": 1562730362,
-      "NumberOfArchives": 2153,
-      "SizeOfArchives": 278097329656,
-      "NumberOfInstalledFiles": 354885,
-      "SizeOfInstalledFiles": 400975184913,
-      "TotalSize": 679072514569
+      "Hash": "l71Twuc8QBo=",
+      "Size": 1393685552,
+      "NumberOfArchives": 2167,
+      "SizeOfArchives": 286358808523,
+      "NumberOfInstalledFiles": 350381,
+      "SizeOfInstalledFiles": 411989960682,
+      "TotalSize": 698348769205
     },
-    "version": "1.38",
+    "version": "1.39",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-13T03:42:31.6192374Z",
+    "dateUpdated": "2026-10-14T16:25:33.7495112Z",
     "repositoryName": ""
   }
 ]
